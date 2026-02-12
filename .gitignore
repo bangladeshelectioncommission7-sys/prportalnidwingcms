@@ -1,0 +1,11 @@
+/static
+/testimages/*
+/venv
+/model
+/__pycache__
+.env
+*.log
+/cache
+testauth.py
+win_venv
+ocr_result.json
